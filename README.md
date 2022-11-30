@@ -1,3 +1,3 @@
 # Quiz-App
 
-:small_blue_diamond: Link : https://react-darkmode-natchapol.netlify.app/ 
+:small_blue_diamond: Link : https://quizappbyreact-natchapol.netlify.app/ 
